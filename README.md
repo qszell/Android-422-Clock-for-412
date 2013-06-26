@@ -53,4 +53,4 @@ http://forum.xda-developers.com/attachment.php?attachmentid=2049212&d=1371457917
 
 3.Android 4.2.2 Clock by kaszell for SlimBean_412_anzu.zip
 
-
+http://forum.xda-developers.com/attachment.php?attachmentid=2049213&d=1371457917
