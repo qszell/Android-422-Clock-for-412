@@ -7,7 +7,7 @@ Works only on ARC S on Android 412 CM / AOKP / SLIM
 
 !ALWAYS DO BACKUP!
 
-SCREENS. Gallery Folder: ][URL="https://drive.google.com/folderview?id=0B-WlwGpbrMMwYWFndHhseHp2YUk&usp=sharing"]
+SCREENS. Gallery Folder: https://drive.google.com/folderview?id=0B-WlwGpbrMMwYWFndHhseHp2YUk&usp=sharing
 
 Instructions
 
