@@ -41,12 +41,15 @@ GIT: https://github.com/kaszell/422-clock
 
 DOWNLOAD:
 1. Android 4.2.2 Clock by kaszell for AOKP_412_anzu.zip:
+2. 
 http://forum.xda-developers.com/attachment.php?attachmentid=2049211&d=1371457917
 
+
 2.Android 4.2.2 Clock by kaszell for CM10_anzu.zip 
+
 http://forum.xda-developers.com/attachment.php?attachmentid=2049212&d=1371457917
 
 
 3.Android 4.2.2 Clock by kaszell for SlimBean_412_anzu.zip
-Android 4.2.2 Clock by kaszell for SlimBean_412_anzu.zip
+
 
