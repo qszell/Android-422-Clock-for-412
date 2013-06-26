@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: DeskClock.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '17'
+packageInfo:
+  cur_package: com.android.deskclock
+  orig_package: com.google.android.deskclock
+compressionType: false
