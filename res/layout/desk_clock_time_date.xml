@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/time_date" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.deskclock.DigitalClock android:gravity="top" android:id="@id/time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="false">
+        <com.android.deskclock.ZeroTopPaddingTextView android:textColor="@color/clock_white" android:ellipsize="none" android:id="@id/timeDisplayHours" android:paddingRight="@dimen/time_margin_right" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/big_bold" />
+        <com.android.deskclock.ZeroTopPaddingTextView android:textColor="@color/clock_white" android:ellipsize="none" android:id="@id/timeDisplayMinutes" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/big_thin" />
+        <com.android.deskclock.ZeroTopPaddingTextView android:textColor="@color/clock_white" android:ellipsize="none" android:gravity="top" android:id="@id/am_pm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" style="@style/label" />
+    </com.android.deskclock.DigitalClock>
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/main_clock_frame" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.android.deskclock.AnalogClock android:layout_gravity="center_horizontal" android:id="@id/analog_clock" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/analog_clock_margin" android:layout_marginTop="@dimen/circle_margin_top" android:layout_marginRight="@dimen/analog_clock_margin" android:layout_marginBottom="@dimen/time_margin_bottom" android:dial="@drawable/clock_analog_dial" android:hand_hour="@drawable/clock_analog_hour" android:hand_minute="@drawable/clock_analog_minute" />
+        <include android:layout_gravity="center" android:id="@id/digital_clock" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/time_margin_top" android:layout_marginBottom="@dimen/digital_margin_bottom" layout="@layout/desk_clock_time_date" />
+    </FrameLayout>
+    <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textColor="@color/clock_white" android:gravity="center" android:id="@id/date" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/label" />
+        <TextView android:textColor="@color/clock_gray" android:gravity="center" android:id="@id/nextAlarm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:drawableLeft="@drawable/ic_alarm_small" android:drawablePadding="2.0dip" style="@style/label" />
+    </LinearLayout>
+</LinearLayout>

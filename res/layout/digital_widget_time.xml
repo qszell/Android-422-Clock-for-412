@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="top|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:baselineAligned="true">
+        <TextClock android:textColor="@color/clock_white" android:layout_gravity="top|center" android:id="@id/the_clock1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:format12Hour="@string/widget_12_hours_format_h" android:format24Hour="@string/widget_24_hours_format_h" style="@style/widget_big_bold" />
+        <TextClock android:textColor="@color/clock_white" android:layout_gravity="top|center" android:id="@id/the_clock2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:format12Hour="@string/widget_12_hours_format_no_ampm_m" android:format24Hour="@string/widget_24_hours_format_m" style="@style/widget_big_thin" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextClock android:textColor="@color/clock_white" android:gravity="center" android:id="@id/date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:format12Hour="@string/abbrev_wday_month_day_no_year" android:format24Hour="@string/abbrev_wday_month_day_no_year" style="@style/label" />
+        <TextView android:textColor="@color/clock_gray" android:gravity="center" android:id="@id/nextAlarm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:drawableLeft="@drawable/ic_alarm_small" android:drawablePadding="2.0dip" style="@style/label" />
+    </LinearLayout>
+</LinearLayout>

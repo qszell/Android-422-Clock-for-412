@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="time_text_size">275.0dip</dimen>
+    <dimen name="ampm_text_size">90.0dip</dimen>
+    <dimen name="date_text_size">15.0sp</dimen>
+    <dimen name="next_alarm_text_size">15.0sp</dimen>
+    <dimen name="time_margin_right">8.0dip</dimen>
+    <dimen name="time_margin_left">8.0dip</dimen>
+    <dimen name="time_margin_bottom">14.0dip</dimen>
+    <dimen name="time_margin_top">32.0dip</dimen>
+    <dimen name="ampm_margin_top">28.0dip</dimen>
+    <dimen name="font_margin_adjust">8.0dip</dimen>
+    <dimen name="next_alarm_margin_top">-5.0dip</dimen>
+    <dimen name="timer_circle_diameter">360.0dip</dimen>
+    <dimen name="timer_circle_width">380.0dip</dimen>
+    <dimen name="circle_margin_top">16.0dip</dimen>
+    <dimen name="circle_margin">48.0dip</dimen>
+    <dimen name="analog_clock_margin">48.0dip</dimen>
+    <dimen name="timer_circle_margin">48.0dip</dimen>
+    <dimen name="sw_right_margin">48.0dip</dimen>
+    <dimen name="world_clock_margin">48.0dip</dimen>
+    <dimen name="plusone_reset_button_padding">23.0dip</dimen>
+    <dimen name="delete_button_padding">19.0dip</dimen>
+    <dimen name="share_button_padding">16.0dip</dimen>
+    <dimen name="timer_button_extra_offset">0.0dip</dimen>
+    <dimen name="glowpadview_margin_right">-64.0dip</dimen>
+    <dimen name="min_digital_widget_height">200.0dip</dimen>
+    <dimen name="min_digital_widget_resize_width">370.0dip</dimen>
+    <dimen name="digital_widget_list_min_height">200.0dip</dimen>
+</resources>

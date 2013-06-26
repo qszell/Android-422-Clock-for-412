@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="targetDrawables" format="reference" />
+    <attr name="targetDescriptions" format="reference" />
+    <attr name="directionDescriptions" format="reference" />
+    <attr name="handleDrawable" format="reference" />
+    <attr name="outerRingDrawable" format="reference" />
+    <attr name="pointDrawable" format="reference" />
+    <attr name="innerRadius" format="dimension" />
+    <attr name="outerRadius" format="dimension" />
+    <attr name="glowRadius" format="dimension" />
+    <attr name="vibrationDuration" format="integer" />
+    <attr name="snapMargin" format="dimension" />
+    <attr name="feedbackCount" format="integer" />
+    <attr name="alwaysTrackFinger" format="boolean" />
+    <attr name="jewelRadius" format="dimension" />
+    <attr name="jewelOffset" format="dimension" />
+    <attr name="jewelColor" format="color" />
+</resources>

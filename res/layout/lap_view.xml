@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:paddingTop="@dimen/body_font_padding" android:paddingBottom="@dimen/body_font_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="4.0dip" android:layout_marginBottom="4.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textColor="@color/clock_gray" android:gravity="left" android:id="@id/lap_number" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/sw_item_space" android:textAllCaps="false" style="@style/body" />
+    <TextView android:textColor="@color/clock_gray" android:gravity="right" android:id="@id/lap_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/sw_item_space" android:textAllCaps="false" style="@style/body" />
+    <TextView android:textColor="@color/clock_gray" android:gravity="right" android:id="@id/lap_total" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="false" style="@style/body" />
+</LinearLayout>

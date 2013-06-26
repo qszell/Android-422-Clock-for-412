@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.deskclock.TimePicker android:id="@id/time_picker" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:background="#28ffffff" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:gravity="bottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/cancel_button" android:background="@drawable/item_background" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/time_picker_cancel" android:layout_weight="1.0" style="@style/dialog_button" />
+        <View android:background="#28ffffff" android:layout_width="1.0dip" android:layout_height="fill_parent" android:layout_marginTop="8.0dip" android:layout_marginBottom="8.0dip" />
+        <Button android:id="@id/set_button" android:background="@drawable/item_background" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/time_picker_set" android:layout_weight="1.0" style="@style/dialog_button" />
+    </LinearLayout>
+</LinearLayout>
