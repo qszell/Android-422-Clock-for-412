@@ -13,8 +13,12 @@ Instructions
 
 
 [*]Clean data old clock --> settings / aplications / all / clock
+
+
 [*]Delete old clock : system/app/DeskClock.apk - do a backup this file.
+
 [*]Flash attachment via CWM
+
 [*]Enjoy
 
 
@@ -22,7 +26,9 @@ If you want back.
 
 
 [*]Delete new clock DeskClock.apk from system/app
+
 [*]And restore system/app/DeskClock.apk
+
 [*]Reboot
 
 
