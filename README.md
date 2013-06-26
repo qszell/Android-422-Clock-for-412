@@ -34,7 +34,7 @@ If you want back.
 
 
 Not work:
-I can't fix digital widget - is API problem. Maybe somebody help with this.[/QUOTE]
+I can't fix digital widget - is API problem. Maybe somebody help with this.
 
 
-GIT: [url]https://github.com/kaszell/422-clock
+GIT: https://github.com/kaszell/422-clock
